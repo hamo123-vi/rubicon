@@ -10,11 +10,11 @@
 
     npm install axios dotenv eslint-plugin-react-hooks react-redux @reduxjs/toolkit react-router-dom redux-persist
 
-###     b) Rename .env.example file into .env and paste your API KEY in proper row
+###     b) Rename '.env.example' file into '.env' and paste your API KEY in the proper row
 
 ## 3. Run app on localhost with this command:
 
-   npm start
+###     npm start
 
 
 Runs the app in the development mode.\
