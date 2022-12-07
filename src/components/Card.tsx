@@ -39,7 +39,7 @@ class Card extends Component<Props, State> {
                 <img className="card_image" alt='' src={this.props.media ? `https://image.tmdb.org/t/p/w500${this.props.media}`: no_preview} />
                 <div className="card_title">
                     <p className="title">
-                        {this.props.name}
+                        {this.props.name} 
                     </p>
                     
                 </div>
