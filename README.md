@@ -1,20 +1,23 @@
 # Instalation steps: 
 
-## Clone this repository on your local machine
+## 1. Clone this repository on your local machine
 
 git clone https://github.com/hamo123-vi/rubicon.git
 
-## Install dependencies and set api key
+## 2. Install dependencies and set api key
 
-### Open root of cloned repository in terminal and paste command writed below: 
+###     1. Open root of cloned repository in terminal and paste command writed below: 
 
-npm install axios dotenv eslint-plugin-react-hooks react-redux @reduxjs/toolkit react-router-dom redux-persist
+            npm install axios dotenv eslint-plugin-react-hooks react-redux @reduxjs/toolkit react-router-dom redux-persist
 
-### Rename .env.example file into .env and paste your API KEY in proper row
+###     2. Rename .env.example file into .env and paste your API KEY in proper row
 
-## Run app on localhost with this command:
+## 3. Run app on localhost with this command:
+
+
 
 ### npm start
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
