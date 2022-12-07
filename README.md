@@ -2,7 +2,7 @@
 
 ## Clone this repository on your local machine
 
-git clone 
+git clone https://github.com/hamo123-vi/rubicon.git
 
 ## Install dependencies and set api key
 
