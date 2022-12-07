@@ -14,8 +14,6 @@
 
 ## 3. Run app on localhost with this command:
 
-
-
    npm start
 
 
