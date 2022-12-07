@@ -26,6 +26,6 @@ You will also see any lint errors in the console.
 
 # Notices:
 
-### 1. Component Card is stateful because of specification of task.
+### 1. Component Card is stateful (as example) because of specification of task.
 
 ### 2. API is very large and it is very hard (beside good documentation) to find all data about videos.   To get video of movie/tv it is necessary to call separate route which gets you to array of videos. Videos can be saved on different sites and have different types. Regarding to all written in this notice, I have set that only ONE video with type "trailer" and site "YouTube" can be rendered.
