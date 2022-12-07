@@ -6,7 +6,7 @@
 
 ## 2. Install dependencies and set api key
 
-###     a) Open root of cloned repository in terminal and paste command writed below: 
+###     a) Open root of cloned repository in terminal and paste command written below: 
 
     npm install axios dotenv eslint-plugin-react-hooks react-redux @reduxjs/toolkit react-router-dom redux-persist
 
